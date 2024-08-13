@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>OSCARS Lab, UTokyo</p>
     <p>Name in Chinese: 詹亦凡</p>
-    <p>Name in カタカナ: ジャン　イーファン</p>
+    <p>Name in カナ: ジャン　イーファン</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
