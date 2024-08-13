@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-<!--subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.-->
+subtitle: <a href='#'>zhan-yifan@g.ecc.u-tokyo.ac.jp
 
 profile:
   align: right
