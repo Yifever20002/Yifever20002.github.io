@@ -9,6 +9,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>OSCARS Lab, UTokyo</p>
+    <p>E-mail: zhan-yifan@g.ecc.u-tokyo.ac.jp</p> 
     <p>Name in Chinese: 詹亦凡</p>
     <p>Name in カナ: ジャン　イーファン</p>
 

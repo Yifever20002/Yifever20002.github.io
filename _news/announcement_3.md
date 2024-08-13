@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🔥 4 papers are accepted by ECCV 2024.
+4 papers are accepted by ECCV 2024. 🔥 
