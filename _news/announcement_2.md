@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-07
+date: 2023-08
 inline: true
 related_posts: false
 ---
 
-4 papers are accepted by ECCV2024.
+One paper is accepted by ICCV 2023.
