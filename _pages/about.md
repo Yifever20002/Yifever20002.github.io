@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: E-mail: zhan-yifan@g.ecc.u-tokyo.ac.jp
+subtitle: E-mail zhan-yifan@g.ecc.u-tokyo.ac.jp
 
 profile:
   align: right
