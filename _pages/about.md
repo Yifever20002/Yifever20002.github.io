@@ -9,7 +9,6 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>OSCARS Lab, UTokyo</p>
-    <p>E-mail: zhan-yifan@g.ecc.u-tokyo.ac.jp</p> 
     <p>Name in Chinese: 詹亦凡</p>
     <p>Name in カナ: ジャン　イーファン</p>
 
@@ -24,4 +23,7 @@ I work on computer vision and computer graphics, with a particular focus on 3D v
 
 My hobbies include playing the violin, watching anime, and gaming.
 
+E-mail: zhan-yifan@g.ecc.u-tokyo.ac.jp
+
 **Feel free to reach me!**
+
