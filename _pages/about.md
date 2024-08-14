@@ -23,7 +23,7 @@ I work on computer vision and computer graphics, with a particular focus on 3D v
 
 My hobbies include playing the violin, watching anime, and gaming.
 
-E-mail: zhan-yifan@g.ecc.u-tokyo.ac.jp
+E-mail: zhan-yifan AT g.ecc.u-tokyo.ac.jp
 
 **Feel free to reach me!**
 
