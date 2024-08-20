@@ -27,4 +27,4 @@ E-mail: zhan-yifan AT g.ecc.u-tokyo.ac.jp
 
 **Feel free to reach me!**
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=6oEtdYAsb_rT8fKfa5RvlzdYHjOJcLn1m2h8AUaMM7I&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=6oEtdYAsb_rT8fKfa5RvlzdYHjOJcLn1m2h8AUaMM7I"></script>
