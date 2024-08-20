@@ -11,7 +11,6 @@ profile:
     <p>OSCARS Lab, UTokyo</p>
     <p>Name in Chinese: 詹亦凡</p>
     <p>Name in カナ: ジャン　イーファン</p>
-    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=6oEtdYAsb_rT8fKfa5RvlzdYHjOJcLn1m2h8AUaMM7I"></script>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
