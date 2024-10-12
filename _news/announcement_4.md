@@ -5,4 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Our team ranks 1^st in ECCV 2024 GigaRendering Challenge.
+Our team ranks 1<sup>st</sup> in ECCV 2024 GigaRendering Challenge.
+
