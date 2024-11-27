@@ -1,12 +1,21 @@
 {
   "basics": {
     "name": "Yifan Zhan",
-    "label": "Master Student",
+    "label": "Doctor Student",
     "image": "",
     "email": "yifeverzhan@gmail.com",
     "url": "https://github.com/Yifever20002"
   },
   "education": [
+    {
+      "institution": "the University of Tokyo",
+      "location": "Tokyo, Japan",
+      "url": "https://www.u-tokyo.ac.jp/ja/index.html",
+      "area": "3D Vision",
+      "studyType": "PhD",
+      "startDate": "2024-10-01",
+      "endDate": "2027-9-20"
+    },
     {
       "institution": "the University of Tokyo",
       "location": "Tokyo, Japan",
