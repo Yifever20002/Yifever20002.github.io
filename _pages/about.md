@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm currently a master student at the Graduate School of Information Science and Technology (IST), The University of Tokyo, supervised by Prof. Yinqiang Zheng.
+I'm currently a D1 student at the Graduate School of Information Science and Technology (IST), The University of Tokyo, supervised by Prof. Yinqiang Zheng.
 
 I work on computer vision and computer graphics, with a particular focus on 3D vision. My research interests primarily involve 3D reconstruction, neural rendering, and human avatars. 
 
